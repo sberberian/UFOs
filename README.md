@@ -2,7 +2,7 @@
 
 ## Overview 
 
-  As a data journalist, Dana was given the chance to work on data from her hometown, McMinnville, Oregon. McMinnville is well-known for its UFO sightings. Javascript will be utilized to produce a clean, informative table to organize all the data for the various sightings. 
+  As a data journalist, Dana is given the chance to work on data from her hometown, McMinnville, Oregon. McMinnville is well-known for its UFO sightings. Javascript will be utilized to produce a clean, informative table to organize all the data for the various sightings. 
 
 ## Results
 
